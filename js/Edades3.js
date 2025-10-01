@@ -1,3 +1,7 @@
+/*Entrada: se leen los datos de edades y se realiza un arreglo
+Proceso: creamos un bucle que sea menor a n cantidad para que 
+sea nuestro bucle sea finito, dentro de este hacemos una secuencia para encontrar la edad mayor
+Salida: muestra la edad mayor/*
 function pedirEdad() {
   const edades = [];
   const totalHermanos = 3;
